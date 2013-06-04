@@ -1,0 +1,4 @@
+LogCreateClass
+==============
+
+LogCreate
